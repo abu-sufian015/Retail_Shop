@@ -59,12 +59,8 @@ The goal of this analysis is to uncover key insights from the sales data of a bu
 ### Sales Trends:
 - **Monthly Sales Trends**: Visualized through line charts to identify seasonality and performance over time.
 
----
 
-## Tools and Techniques Used:
-- **SQL**: For data extraction, aggregation, and queries to retrieve key metrics.
-- **Excel**: For data cleaning, analysis, and reporting.
-- **Power BI**: For data visualization to communicate insights.
+
 
 ---
 
