@@ -4,7 +4,7 @@
 A comprehensive breakdown of a real-world dataset, analyzed and visualized to uncover actionable insights.
 
 ---
-![Dashboard Screenshot](source.png)
+![Dashboard Screenshot](source-example.png)
 
 ### GitHub Project Objective
 
