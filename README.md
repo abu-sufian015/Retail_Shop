@@ -3,6 +3,10 @@
 ## Summary Report
 A comprehensive breakdown of a real-world dataset, analyzed and visualized to uncover actionable insights.
 
+### GitHub Project Objective
+
+“This project analyzes sales, profit, and profit margin data to uncover trends and actionable insights that support better business decisions. Using Excel formulas, PivotTables, and dashboards, the project transforms raw data into clear, visual reports that help optimize profitability and guide strategic planning.”
+
 ### Highlights:
 - 💰 **Total Revenue**: $26,995.51M
 - 🪑 **Top Product Category**: Furniture (81.35% of Sales)
@@ -25,11 +29,10 @@ A comprehensive breakdown of a real-world dataset, analyzed and visualized to un
 - **PivotTables & Dashboards**
 - **SQL Aggregations**: `SUM`, `AVG`
 - **SQL Filtering and Sorting**: `GROUP BY`, `ORDER BY`, `LIMIT`
+** 
+![Dashboard Screenshot](formula.png)
 
----
-
-## Objective:
-The goal of this analysis is to uncover key insights from the sales data of a business and provide actionable recommendations to enhance decision-making.
+** 
 
 ---
 
