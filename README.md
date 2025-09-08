@@ -29,7 +29,8 @@ A comprehensive breakdown of a real-world dataset, analyzed and visualized to un
 - **PivotTables & Dashboards**
 - **SQL Aggregations**: `SUM`, `AVG`
 - **SQL Filtering and Sorting**: `GROUP BY`, `ORDER BY`, `LIMIT`
-** 
+
+--
 ![Dashboard Screenshot](formula.png)
 
 ** 
@@ -40,6 +41,9 @@ A comprehensive breakdown of a real-world dataset, analyzed and visualized to un
 
 ### Total Revenue:
 - **Total Revenue Analyzed**: $26,995.51M
+
+![Dashboard Screenshot](sales.png)
+
 
 ### Top-Selling Categories:
 - **Highest Selling Product Category**: Furniture (81.35% Contribution)
@@ -54,6 +58,8 @@ A comprehensive breakdown of a real-world dataset, analyzed and visualized to un
 
 - **Average Shipping Cost per Region**: $28.95  
   Potential to optimize shipping costs by analyzing regional delivery differences.
+--
+  ![Dashboard Screenshot](profit.png)
 
 ### Product Profitability:
 - **Top Sub-Category by Profit Margin**: Phones (47%)  
