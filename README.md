@@ -3,6 +3,9 @@
 ## Summary Report
 A comprehensive breakdown of a real-world dataset, analyzed and visualized to uncover actionable insights.
 
+---
+![Dashboard Screenshot](source.png)
+
 ### GitHub Project Objective
 
 “This project analyzes sales, profit, and profit margin data to uncover trends and actionable insights that support better business decisions. Using Excel formulas, PivotTables, and dashboards, the project transforms raw data into clear, visual reports that help optimize profitability and guide strategic planning.”
@@ -41,8 +44,11 @@ A comprehensive breakdown of a real-world dataset, analyzed and visualized to un
 
 ### Total Revenue:
 - **Total Revenue Analyzed**: $26,995.51M
-
+---
 ![Dashboard Screenshot](sales.png)
+
+---
+![Dashboard Screenshot](profit.png)
 
 
 ### Top-Selling Categories:
@@ -58,8 +64,8 @@ A comprehensive breakdown of a real-world dataset, analyzed and visualized to un
 
 - **Average Shipping Cost per Region**: $28.95  
   Potential to optimize shipping costs by analyzing regional delivery differences.
---
-  ![Dashboard Screenshot](profit.png)
+---
+  ![Dashboard Screenshot](2.png)
 
 ### Product Profitability:
 - **Top Sub-Category by Profit Margin**: Phones (47%)  
