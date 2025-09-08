@@ -13,7 +13,7 @@ A comprehensive breakdown of a real-world dataset, analyzed and visualized to un
 - 💡 **Top Sub-Category by Profit Margin**: Phones (47%)
 
 ---
-![Dashboard Screenshot](main_r dashboard.png)
+![Dashboard Screenshot](main_r.png)
 ## 🔧 Tools Used:
 - **SQL** for data extraction
 - **Excel** for cleaning and analysis
